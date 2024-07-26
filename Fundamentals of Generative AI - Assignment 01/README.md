@@ -45,7 +45,7 @@
 
 **Artificial General Intelligence (AGI)**
 
-    Artificial General Intelligence (AGI) refers to a hypothetical AI system that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks, similar to human intelligence. AGI would be capable of performing any intellectual task that a human can, possessing a level of cognitive ability and adaptability that is indistinguishable from human intelligence.
+Artificial General Intelligence (AGI) refers to a hypothetical AI system that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks, similar to human intelligence. AGI would be capable of performing any intellectual task that a human can, possessing a level of cognitive ability and adaptability that is indistinguishable from human intelligence.
 
 **Characteristics of AGI:**
 
