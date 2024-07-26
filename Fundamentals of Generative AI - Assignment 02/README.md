@@ -6,9 +6,9 @@
 
 **Microservices typically have the following characteristics:**
 
-- **Loose Coupling:** Each microservice is designed to be independent and loosely coupled with other services.
+- `**Loose Coupling:**` Each microservice is designed to be independent and loosely coupled with other services.
 
-- **Autonomy:** Each microservice is responsible for its own behavior and decision-making.
+- `**Autonomy:**` Each microservice is responsible for its own behavior and decision-making.
 
 - **Organized Around Business Capabilities:** Microservices are organized around the business capabilities they provide, rather than being structured around a specific technology or layer.
 
