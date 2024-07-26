@@ -48,17 +48,17 @@ Artificial General Intelligence (AGI) refers to a hypothetical AI system that po
 
 **Characteristics of AGI:**
 
-**General Problem-Solving Ability:** AGI would be able to solve problems in various domains, including but not limited to mathematics, science, engineering, economics, and social sciences.
+1. **General Problem-Solving Ability:** AGI would be able to solve problems in various domains, including but not limited to mathematics, science, engineering, economics, and social sciences.
 
-**Reasoning and Decision-Making:** AGI would be able to reason, draw conclusions, and make decisions based on incomplete or uncertain information.
+2. **Reasoning and Decision-Making:** AGI would be able to reason, draw conclusions, and make decisions based on incomplete or uncertain information.
 
-**Knowledge Representation and Acquisition:** AGI would be able to acquire, represent, and apply knowledge in a way that is similar to human learning and understanding.
+3. **Knowledge Representation and Acquisition:** AGI would be able to acquire, represent, and apply knowledge in a way that is similar to human learning and understanding.
 
-**Natural Language Understanding:** AGI would be able to comprehend and generate human-like language, enabling effective communication with humans.
+4. **Natural Language Understanding:** AGI would be able to comprehend and generate human-like language, enabling effective communication with humans.
 
-**Common Sense and World Knowledge:** AGI would possess a deep understanding of the world, including common sense, intuition, and the ability to recognize and respond to nuances.
+5. **Common Sense and World Knowledge:** AGI would possess a deep understanding of the world, including common sense, intuition, and the ability to recognize and respond to nuances.
 
-**Creativity and Innovation:** AGI would be able to generate novel solutions, products, or ideas, demonstrating creativity and innovation.
+6. **Creativity and Innovation:** AGI would be able to generate novel solutions, products, or ideas, demonstrating creativity and innovation.
 
-**Emotional Intelligence and Social Skills:** AGI would be able to understand and respond to human emotions, empathize with humans, and develop effective social relationships.
-At this time, Level 1 has been achieved. In the near future, other levels will be achieved.
+7. **Emotional Intelligence and Social Skills:** AGI would be able to understand and respond to human emotions, empathize with humans, and develop effective social relationships.
+   At this time, Level 1 has been achieved. In the near future, other levels will be achieved.
