@@ -61,4 +61,6 @@ Artificial General Intelligence (AGI) refers to a hypothetical AI system that po
 6. **Creativity and Innovation:** AGI would be able to generate novel solutions, products, or ideas, demonstrating creativity and innovation.
 
 7. **Emotional Intelligence and Social Skills:** AGI would be able to understand and respond to human emotions, empathize with humans, and develop effective social relationships.
+![alt OpenAI outlines plan for AGI](five.png "5 steps to reach superintelligence").
+
    At this time, Level 1 has been achieved. In the near future, other levels will be achieved.
