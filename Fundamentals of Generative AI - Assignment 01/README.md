@@ -55,5 +55,4 @@ Artificial General Intelligence (AGI) refers to a hypothetical AI system that po
 **Common Sense and World Knowledge:** AGI would possess a deep understanding of the world, including common sense, intuition, and the ability to recognize and respond to nuances.
 **Creativity and Innovation:** AGI would be able to generate novel solutions, products, or ideas, demonstrating creativity and innovation.
 **Emotional Intelligence and Social Skills:** AGI would be able to understand and respond to human emotions, empathize with humans, and develop effective social relationships.
-
 At this time, Level 1 has been achieved. In the near future, other levels will be achieved.
