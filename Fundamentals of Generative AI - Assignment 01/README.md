@@ -33,7 +33,7 @@
    Generative AI models include Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Transformers (e.g., GPT-3).
    Applications of generative AI include text generation, image synthesis, music composition, and conversational AI.
 
-   5. **Applied AI:**
+5. **Applied AI:**
 
    Applied AI refers to the practical implementation and deployment of AI technologies to solve real-world problems in various industries and domains.
    Applied AI focuses on taking AI research and techniques and applying them to create tangible solutions and products that can be used by individuals, organizations, or businesses.
@@ -45,7 +45,7 @@
 
 **Artificial General Intelligence (AGI)**
 
-Artificial General Intelligence (AGI) refers to a hypothetical AI system that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks, similar to human intelligence. AGI would be capable of performing any intellectual task that a human can, possessing a level of cognitive ability and adaptability that is indistinguishable from human intelligence.
+    Artificial General Intelligence (AGI) refers to a hypothetical AI system that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks, similar to human intelligence. AGI would be capable of performing any intellectual task that a human can, possessing a level of cognitive ability and adaptability that is indistinguishable from human intelligence.
 
 **Characteristics of AGI:**
 
