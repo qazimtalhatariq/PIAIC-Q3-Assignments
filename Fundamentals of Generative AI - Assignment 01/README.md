@@ -57,7 +57,3 @@ Artificial General Intelligence (AGI) refers to a hypothetical AI system that po
 **Emotional Intelligence and Social Skills:** AGI would be able to understand and respond to human emotions, empathize with humans, and develop effective social relationships.
 
 At this time, Level 1 has been achieved. In the near future, other levels will be achieved.
-
-```
-
-```
