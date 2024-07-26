@@ -6,23 +6,23 @@
 
 **Microservices typically have the following characteristics:**
 
-- `**Loose Coupling:**` Each microservice is designed to be independent and loosely coupled with other services.
+- **`Loose Coupling:`** Each microservice is designed to be independent and loosely coupled with other services.
 
-- `**Autonomy:**` Each microservice is responsible for its own behavior and decision-making.
+- **`Autonomy:`** Each microservice is responsible for its own behavior and decision-making.
 
-- **Organized Around Business Capabilities:** Microservices are organized around the business capabilities they provide, rather than being structured around a specific technology or layer.
+- **`Organized Around Business Capabilities:`** Microservices are organized around the business capabilities they provide, rather than being structured around a specific technology or layer.
 
-- **Scaling:** Microservices can be scaled independently of other services in the application.
+- **`Scaling:`** Microservices can be scaled independently of other services in the application.
 
-- **Decentralized Data Management:** Each microservice manages its own data, and there is no centralized data repository.
+- **`Decentralized Data Management:`** Each microservice manages its own data, and there is no centralized data repository.
 
 **<span class="font-bold">How to Develop AI-based Microservices</span>**
 
 Developing AI-based microservices involves integrating artificial intelligence (AI) and machine learning (ML) capabilities into individual microservices. Here's a step-by-step approach to developing AI-based microservices:
 
-- **Identify Business Capabilities:** Identify the business capabilities that can benefit from AI and ML, such as image classification, natural language processing, or predictive analytics.
+- **`Identify Business Capabilities:`** Identify the business capabilities that can benefit from AI and ML, such as image classification, natural language processing, or predictive analytics.
 
-- **Design Microservices Architecture:** Design a microservices architecture that includes AI-based services, ensuring loose coupling and autonomy between services.
+- **`Design Microservices Architecture:`** Design a microservices architecture that includes AI-based services, ensuring loose coupling and autonomy between services.
 
 - **Choose AI/ML Frameworks:** Select suitable AI and ML frameworks, such as TensorFlow, PyTorch, or scikit-learn, to develop and integrate AI capabilities into microservices.
 
