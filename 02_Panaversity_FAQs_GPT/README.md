@@ -50,5 +50,5 @@ https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/
     your students or colleagues.
 
 The full instructions for the GPT are included in the instructions.txt file in this directory.
-![Panaversity FAQs GPT]("gpt-pic.png""Panaversity FAQs GPT")
-[Panversity FAQs GPT](" https://chatgpt.com/g/g-ylTyMctFr-panaversity-faqs-gpt")
+![alt Panaversity FAQs GPT](gpt-pic.png "Panaversity FAQs GPT")
+([Panversity FAQs GPT](" https://chatgpt.com/g/g-ylTyMctFr-panaversity-faqs-gpt"))
