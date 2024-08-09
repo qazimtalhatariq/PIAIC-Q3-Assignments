@@ -1,8 +1,5 @@
-# Panaversity FAQ GPT
+# Python Quiz GPT
 
-We have to build GPT like this:
-
-https://chatgpt.com/g/g-GvTZitpXD-panaversity-faq-gpt
 
 The Documents that we will use in this GPT in the first 13 steps in this repo and the detailed Syllabus of Panaversity:
 
