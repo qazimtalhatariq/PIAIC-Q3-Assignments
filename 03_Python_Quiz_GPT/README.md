@@ -1,4 +1,4 @@
-# Panaversity FAQ GPT
+# Python Quiz GPT
 
 ## Steps to Create a Custom Python Quiz GPT
 
