@@ -41,7 +41,7 @@ def main():
     name = input("Enter your name: ")
     numbers = get_numbers()
 
-    print(f"Hello, {name}! Let's explore your favorite numbers:")
+    print(f"\nHello, {name}! Let's explore your favorite numbers:")
 
     even_odd_list = check_even_odd(numbers)
     for num, even_odd in even_odd_list:
@@ -52,11 +52,11 @@ def main():
         print(f"The number {num} and its square: ({num}, {square})")
 
     total_sum = sum(numbers)
-    print(f"Amazing! The sum of your favorite numbers is: {total_sum}")
+    print(f"\nAmazing! The sum of your favorite numbers is: {total_sum}")
 
     if check_prime(total_sum):
-        print(f"Wow, {total_sum} is a prime number!")
+        print(f"\nWow, {total_sum} is a prime number!")
     else:
-        print(f"The sum {total_sum} is not a prime number.")
+        print(f"\nThe sum {total_sum} is not a prime number.")
 
 main()
